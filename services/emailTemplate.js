@@ -1,5 +1,5 @@
 module.exports = ({ emailFrom, downloadLink, size, expires }) => {
-  return `
+    return `
         <!doctype html>
             <html>
             <head>
